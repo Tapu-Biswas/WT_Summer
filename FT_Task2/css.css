@@ -1,0 +1,70 @@
+body
+{
+    background-color:rgb(118, 146, 146);
+}
+.test 
+{
+    padding:30px;
+    height:50px;
+    font-size:30px;
+    font-weight:bold;
+    font-family: 'Times New Roman', Times, serif;
+    background-color:rgb(185, 240, 243);
+    text-align:center;
+    color:black;
+}
+.test1 
+{
+    height: 50px;
+    font-size:20px;
+    font-weight:bold;
+    background-color:rgb(185, 240, 243);
+    text-align:center;
+    color:blue;
+}
+.test2 
+{
+    padding-top:20px ;
+    padding-left:10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:20px;
+    word-spacing: 15px;
+    text-align: 10%;;
+    height:60px;
+    background-color:rgb(63, 10, 63) ;
+    color:white;
+}
+.test3 h1
+{
+    
+    padding-top:5px ;
+    height:50px;
+    border-left:10px solid rgb(23, 145, 152);
+    font-size:30px;
+    background-color:rgb(206, 241, 243);
+    color:black;
+}
+
+body p
+{
+    background-color: rgb(225, 225, 28);
+
+}
+.btn1
+{
+    border-color:rgb(78, 78, 168);
+    height:25px;
+    width:80px;
+    border-radius:5px;
+    background-color:rgb(78, 78, 168);
+    color:black;
+}
+.btn2
+{
+    border-color:rgb(78, 78, 168);
+    height:25px;
+    width:80px;
+    border-radius:5px;
+    background-color:rgb(78, 78, 168);
+    color:black;
+}
